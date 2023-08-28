@@ -3,6 +3,7 @@ import "./App.css";
 import { Datos } from "./components/Datos";
 import { TablaNotas } from "./components/TablaNotas";
 import Navbar from "./components/Navbar";
+import { Recomienda } from "./components/Recomienda";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Datos></Datos>
       <Navbar></Navbar>
       <TablaNotas></TablaNotas>
+      <Recomienda></Recomienda>
     </>
   );
 }
