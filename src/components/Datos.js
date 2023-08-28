@@ -13,7 +13,7 @@ const obtenerFechaFormateada = () => {
 export const Datos = () => {
   const fechaFormateada = obtenerFechaFormateada();
   return (
-    <div className=" p-4">
+    <div className=" mt-20">
       <div className="max-w-md mx-auto  p-6 rounded-lg">
         <h1 className="text-2xl font-semibold mb-4 text-center">
           Historial de Notas
