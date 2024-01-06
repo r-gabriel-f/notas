@@ -69,7 +69,7 @@ export const TablaNotas = () => {
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
-                    <td className="border px-4 py-2">4.38</td>
+                    <td className="border px-4 py-2">7.26</td>
                   </tr>
                   <tr>
                     <td className="border px-4 py-2">6°</td>
@@ -87,7 +87,7 @@ export const TablaNotas = () => {
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
-                    <td className="border px-4 py-2">3.74</td>
+                    <td className="border px-4 py-2">6.06</td>
                   </tr>
                   <tr>
                     <td className="border px-4 py-2">6°</td>
@@ -105,7 +105,7 @@ export const TablaNotas = () => {
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
-                    <td className="border px-4 py-2">4.74</td>
+                    <td className="border px-4 py-2">8.13</td>
                   </tr>
                   <tr>
                     <td className="border px-4 py-2">6°</td>
@@ -123,7 +123,7 @@ export const TablaNotas = () => {
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
-                    <td className="border px-4 py-2">4.06</td>
+                    <td className="border px-4 py-2">6.7</td>
                   </tr>
                   <tr>
                     <td className="border px-4 py-2">6°</td>
@@ -139,7 +139,7 @@ export const TablaNotas = () => {
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
-                    <td className="border px-4 py-2">5.16</td>
+                    <td className="border px-4 py-2">8.42</td>
                   </tr>
                   <tr>
                     <td className="border px-4 py-2">6°</td>
@@ -155,7 +155,7 @@ export const TablaNotas = () => {
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
                     <td className="border px-4 py-2">-</td>
-                    <td className="border px-4 py-2">4.75</td>
+                    <td className="border px-4 py-2">8.56</td>
                   </tr>
                   <tr>
                     <td className="border px-4 py-2"></td>
